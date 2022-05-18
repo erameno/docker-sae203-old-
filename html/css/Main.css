@@ -1,4 +1,4 @@
 .film{
-    background-image: url(../images/logo-film.jpg);
+    background-image: url("../images/logo-film.jpg");
     width: 50%;
 }
