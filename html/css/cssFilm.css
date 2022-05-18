@@ -44,14 +44,20 @@ strong{
     display: flex;
 }
 
+.scienceGlobal{
+    width: 100%;
+}
 .categorie{
     margin-right: 50px;
     margin-bottom: 50px;
-    width: 40%;
+    width: 15%;
     height:250px;
     text-align: center;
 }
 
+.categ{
+    top:0%;
+}
 
 
 a, a:visited{
@@ -77,6 +83,7 @@ a:hover{
 
 .film{ 
     background-image: url("../images/logo-film.jpg");
+    
 }
 
 .serie{ 
